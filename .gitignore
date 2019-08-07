@@ -1,0 +1,5 @@
+bin/*
+*.iml
+.settings/*
+.idea/*
+/bin/
